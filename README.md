@@ -1,4 +1,4 @@
 # Simple-Calculator-Walkthrough
 
 I followed a youtube video to code a simple calculator using VisualCodeStudio.
-Here is the line to the youtube video:
+Link to the youtube video: https://youtu.be/j59qQ7YWLxw
